@@ -1,0 +1,22 @@
+UTILIZAÇÃO-----//-----//-----
+
+
+--> Antes de abrir o programa: -----//-----//-----
+ 
+ -Coloque os ficheiros que pretende comprimir na pasta "Original"
+
+--> Como abrir o programa: -----//-----//-----
+
+ >Windows:
+  -Clique com o botão secundário no ficheiro "encode.py";
+  -Selecione a opção "abrir com" e, de seguida, escolha "Python 3.9"
+
+ >Mac/Linux:
+  -Abra Terminal;
+  -Arraste "encode.py" para a janela aberta do Terminal;
+  -Pressione a tecla "Enter"
+
+--> Como utilizar o programa: -----//-----//-----
+ 
+ -Uma vez aberto o programa, depois do cabeçalho "BZIP2 ENCODER", aparecerá um campo "Nome do ficheiro:", onde deverá colocar o nome do ficheiro que pretende comprimir, não esquecendo sua extensão. (O ficheiro deve ser previamente colocado na pasta "Original");
+ -Se pretender sair, escreva "sair" quando for possível introduzir texto ou responda "não" (ou "nao") à questão "Deseja efetuar nova compressão?".

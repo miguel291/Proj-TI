@@ -1,0 +1,7 @@
+INSTALAÇÃO-----//-----//-----
+
+Windows:
+ -Caso não tenha instalado, instale "Python 3.9", disponível em: https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?fbclid=IwAR061xoKFAlkmNKfE8LZS2G_Py4gtGjX6Y4UHmPTX4uFLnD7SBoIfnayl64&activetab=pivot:overviewtab
+
+Mac/Linux:
+ -Não é necessária qualquer instalação.
