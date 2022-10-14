@@ -1,3 +1,3 @@
 # Proj-TI
 
-Project for the Information Theory subject of the Informatics engineering course @University of Coimbra
+Project for the Information Theory course @University of Coimbra
